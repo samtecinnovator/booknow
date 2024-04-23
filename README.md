@@ -1,8 +1,7 @@
-# Hotel-Management-System-Ajax-PHP-Mysql
+# apartment-booking-System-Ajax-PHP-Mysql
 
- A hotel management system in which clients can perform operations such as booking a room and event. It is possible for the clients to cancel the rooms that they had booked and the admin has control over the rooms allotted to the clients and can also manage client requests for rooms, event halls. From the admin side, the admin can add a new type of room and events, then admin can add new room and hall to the corresponding type, with that admin has an over view of hotel booking on the dashboard with graph.
+ A apartment management system in which clients can perform operations such as booking a room and event. It is possible for the clients to cancel the rooms that they had booked and the admin has control over the rooms allotted to the clients and can also manage client requests for rooms, event halls. From the admin side, the admin can add a new type of room and events, then admin can add new room and hall to the corresponding type, with that admin has an over view of apartment booking on the dashboard with graph.
 
-  **Visit** : [Live Demo](https://hotel-management-system-ajax.000webhostapp.com/)
 
 <h1>login credentials</h1>
  <h3>Admin :</h3>
@@ -35,12 +34,12 @@
 ## Steps to run the project in your machine
 1. Download and install XAMPP in your machine
 2. Clone or download the repository
-3. Extract all the files and move it to the 'htdocs' folder of your XAMPP directory and name it as hotel.
+3. Extract all the files and move it to the 'htdocs' folder of your XAMPP directory and name it as apartment.
 4. Start the Apache and Mysql in your XAMPP control panel.
 5. Open your web browser and type 'localhost/phpmyadmin'
-6. In phpmyadmin page, create a new database from the left panel and name it as 'hotel'
-7. Import the file 'hotel.sql' inside your newly created database and click ok.
-8. Open a new tab and type 'localhost/hotel' in the url of your browser.
+6. In phpmyadmin page, create a new database from the left panel and name it as 'booknow'
+7. Import the file 'bookings.sql' inside your newly created database and click ok.
+8. Open a new tab and type 'localhost/booknow' in the url of your browser.
 10. Hurray! That's it!
     
 ### SOFTWARES USED
