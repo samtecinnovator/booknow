@@ -41,7 +41,7 @@
 10. Hurray! That's it!
     
 ### SOFTWARES USED
-  - XAMPP was installed on the windows 8 machine and APACHE2 Server and MySQL were initialized. And, files were built inside C:\xampp\htdocs\hospital
+  - XAMPP was installed on the windows 8 machine and APACHE2 Server and MySQL were initialized. And, files were built inside C:\xampp\htdocs\booknow
   - Visual Studio Code was used as a text editor.
   - Google Chrome Version 77.0.3865.90 was used to run the project (localhost/booknow/home.html was used as the url).
   
@@ -52,3 +52,46 @@
   
 <p align="center"><img src="https://user-images.githubusercontent.com/36665975/59350977-fcc68900-8d3a-11e9-9450-e5c478497caa.png"></p>
 
+Manage your apartment bookings efficiently with our PHP-based booking Management System. This system streamlines check-in, room bookings, and real-time room status updates, making it easy for customers and staff. It's user-friendly, expandable, and built on the robust XAMPP platform. Your guests deserve the best, our system helps you deliver it.
+
+This project is an apartment booking system that automates the major operations such as generating COD, bills, and item details to the customer. It also provides services to customers like booking (advance/current), cancellation of advance booking, enquiring about any customer (by name/customerId) or about room availability. The project has scope in apartments since the routine activities of managing operations become easy.
+
+Features:
+
+Online booking and payment
+Customer reviews and ratings
+Room management
+accomodation management
+Bill generation
+Reporting
+Modules:
+
+Customer module
+Room module
+accomodation-provider module
+Booking module
+Billing module
+Reporting module
+To use the system:
+
+Create an account and log in.
+Book a room by selecting the desired dates and room type.
+Make a payment using a credit or debit card.
+Check in to the apartment on your arrival date.
+Check out of the apartment on your departure date.
+Pay the bill at checkout.
+System requirements:
+
+Operating system: Windows, macOS, or Linux
+Web browser: Chrome, Firefox, or Edge
+Internet connection
+Installation:
+
+Clone the repository.
+Install the required dependencies.
+Start the server.
+Usage:
+
+Open a web browser and navigate to http://localhost:3000.
+Create an account and log in.
+Start using the system.
